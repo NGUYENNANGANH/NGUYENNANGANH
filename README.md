@@ -17,7 +17,7 @@ Hello! My name is Nguyễn Năng Anh. I am a student at Thủy Lợi University,
 ![](https://github-trophies.vercel.app/?username=NGUYENNANGANH&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
 # 📂Projects
-Here are some of my notable projects:
+**Here are some of my notable projects:**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Scientific-research-2024)](https://github.com/NGUYENNANGANH/Scientific-research-2024)
 
 ### ✍️Random Dev Quote

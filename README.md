@@ -11,10 +11,11 @@ Hello! My name is Nguyễn Năng Anh. I am a student at Thủy Lợi University,
 # 📊GitHub Stats :
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NGUYENNANGANH&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 | <a href="https://github.com/NGUYENNANGANH/Scientific-research-2024"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NGUYENNANGANH&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/NGUYENNANGANH/Scientific-research-2024"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NGUYENNANGANH&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | :-------------: | :-------------: |
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=NGUYENNANGANH&theme=tokyonight&hide_border=false)<br/>
 
 
 ## 🏆GitHub Trophies

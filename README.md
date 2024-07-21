@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💫 About Me:
 🔭 I'm a member of the Technical Club in Computer Science<br>🌱 I’m currently learning more about computer repair and software installation<br>💬 Ask me about C, C#, C++, CSS3, JavaScript, HTML5, Python, React<br>📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100035191161128&mibextid=ZbWKwL)
 
@@ -30,3 +32,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NGUYENNANGANH&icon=2&color=0)](https://visitcount.itsvg.in)
+
+</div>

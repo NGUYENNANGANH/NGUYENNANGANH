@@ -23,7 +23,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvi.pngtree.com%2Ffreepng%2Fcoder-clipart-boy-working-with-computer-game-on-the-desk-vector_11072679.html&psig=AOvVaw07-8cVdMZPo9kr9SJ6WW37&ust=1721670566817000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMip5urYuIcDFQAAAAAdAAAAABAE" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NGUYENNANGANH&icon=2&color=0)](https://visitcount.itsvg.in)

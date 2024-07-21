@@ -22,6 +22,14 @@ Hello! My name is Nguyễn Năng Anh. I am a student at Thủy Lợi University,
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Scientific-research-2024)](https://github.com/NGUYENNANGANH/Scientific-research-2024)
 
+https://github.com/NGUYENNANGANH/Scientific-research-2024.git
+
+<a href="https://github.com/NGUYENNANGANH/Scientific-research-2024/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Scientific-research-2024&theme=radical" />
+</a>  
+
+
 <a href="https://github.com/uvipen/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />

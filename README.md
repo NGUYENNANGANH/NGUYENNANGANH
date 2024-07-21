@@ -20,6 +20,8 @@ Hello! My name is Nguyễn Năng Anh. I am a student at Thủy Lợi University,
 **Here are some of my notable projects:** <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Scientific-research-2024)](https://github.com/NGUYENNANGANH/Scientific-research-2024)
+![Stars](https://img.shields.io/github/stars/NGUYENNANGANH/Scientific-research-2024?style=social)
+
 
 
 ### ✍️Random Dev Quote

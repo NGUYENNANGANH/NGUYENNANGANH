@@ -15,8 +15,6 @@ Hello! My name is Nguyễn Năng Anh. I am a student at Thủy Lợi University,
 | :-------------: | :-------------: |
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=NGUYENNANGANH&theme=tokyonight&hide_border=false)<br/>
-
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=NGUYENNANGANH&theme=matrix&no-frame=false&no-bg=false&margin-w=4)

@@ -1,5 +1,5 @@
 # 💫About Me :
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw0fYsj7jZEWJDlvJcGsXtRp&ust=1721673820440000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNirlvfkuIcDFQAAAAAdAAAAABA5" align="right" width="150"/> 
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="150"/> 
 Hello! My name is Nguyễn Năng Anh. I am a student at Thủy Lợi University, born in 2003. I have a deep passion for Information Technology and love exploring new technologies. As a member of the Technical Club in Computer Science, I am constantly enhancing my skills in computer repair, software installation, and various programming languages.
 
 ## 🌐Socials

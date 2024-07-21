@@ -1,5 +1,4 @@
 # 💫About Me :
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="150"/> 
 Hello! My name is Nguyễn Năng Anh. I am a student at Thủy Lợi University, born in 2003. I have a deep passion for Information Technology and love exploring new technologies. As a member of the Technical Club in Computer Science, I am constantly enhancing my skills in computer repair, software installation, and various programming languages.
 
 ## 🌐Socials
@@ -21,7 +20,5 @@ Hello! My name is Nguyễn Năng Anh. I am a student at Thủy Lợi University,
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
+[![](https://visitcount.itsvg.in/api?id=NGUYENNANGANH&icon=9&color=1)](https://visitcount.itsvg.in)

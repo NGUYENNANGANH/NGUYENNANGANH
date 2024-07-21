@@ -18,23 +18,11 @@ Hello! My name is Nguyễn Năng Anh. I am a student at Thủy Lợi University,
 
 # 📂Projects
 **Here are some of my notable projects:** <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Scientific-research-2024&show_owner=true)](https://github.com/NGUYENNANGANH/Scientific-research-2024)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Scientific-research-2024)](https://github.com/NGUYENNANGANH/Scientific-research-2024)
-
-https://github.com/NGUYENNANGANH/Scientific-research-2024.git
 
 <a href="https://github.com/NGUYENNANGANH/Scientific-research-2024/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Scientific-research-2024&theme=radical" />
 </a>  
-
-
-<a href="https://github.com/uvipen/QuickDraw/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
-</a>  
-
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

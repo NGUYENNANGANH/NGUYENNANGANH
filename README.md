@@ -18,6 +18,6 @@ Hello! My name is Nguyễn Năng Anh. I am a student at Thủy Lợi University,
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
-<img src="https://meme-api.herokuapp.com/gimme" width="512px"/>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=NGUYENNANGANH&icon=9&color=1)](https://visitcount.itsvg.in)

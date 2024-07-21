@@ -1,4 +1,6 @@
 # 💫About Me :
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="150"/>
 Hello! My name is Nguyễn Năng Anh. I am a student at Thủy Lợi University, born in 2003. I have a deep passion for Information Technology and love exploring new technologies. As a member of the Technical Club in Computer Science, I am constantly enhancing my skills in computer repair, software installation, and various programming languages.
 
 ## 🌐Socials

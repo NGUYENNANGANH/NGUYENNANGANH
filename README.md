@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nguyễn+Năng+Anh!;" />
 </h1>
-# 💫About Me :
+## 💫About Me :
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="150"/>
 Hello! My name is Nguyễn Năng Anh. I am a student at Thủy Lợi University, born in 2003. I have a deep passion for Information Technology and love exploring new technologies. As a member of the Technical Club in Computer Science, I am constantly enhancing my skills in computer repair, software installation, and various programming languages.

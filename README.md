@@ -34,6 +34,7 @@ Hello! My name is Nguyễn Năng Anh. I am a student at Thủy Lợi University,
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=NGUYENNANGANH&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
 

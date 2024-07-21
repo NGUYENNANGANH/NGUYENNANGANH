@@ -21,5 +21,8 @@ Hello! My name is Nguyễn Năng Anh. I am a student at Thủy Lợi University,
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=NGUYENNANGANH&icon=9&color=1)](https://visitcount.itsvg.in)

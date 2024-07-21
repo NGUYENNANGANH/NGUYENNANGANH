@@ -23,7 +23,6 @@ Hello! My name is Nguyễn Năng Anh. I am a student at Thủy Lợi University,
 **Here are some of my notable projects:** <br>
 
 <a href="https://github.com/NGUYENNANGANH/Scientific-research-2024/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Scientific-research-2024&theme=radical" />
 </a>  
 
@@ -51,15 +50,5 @@ Hello! My name is Nguyễn Năng Anh. I am a student at Thủy Lợi University,
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
-<br />
-<br />
 
 
-
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>

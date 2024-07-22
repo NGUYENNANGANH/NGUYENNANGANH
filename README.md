@@ -31,7 +31,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center;">
+    <td colspan="2" align="center">
       <a href="https://github.com/NGUYENNANGANH/Study_OOP">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NGUYENNANGANH&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Nguyễn Năng Anh's top languages" />
       </a>

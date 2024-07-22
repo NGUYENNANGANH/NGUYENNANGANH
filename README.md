@@ -49,6 +49,17 @@
 </a>
 
 
+**<div align="center">
+  <a href="https://github.com/NGUYENNANGANH/Scientific-research-2024">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Scientific-research-2024&theme=radical" />
+  </a>
+  <a href="https://github.com/NGUYENNANGANH/Study_OOP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Study_OOP&theme=radical" />
+  </a>
+</div>
+**
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NGUYENNANGANH&icon=0&color=0)](https://visitcount.itsvg.in)

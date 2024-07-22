@@ -35,7 +35,7 @@ Hello! My name is Nguyễn Năng Anh. I am a student at Thủy Lợi University,
 
 
 
-## 🐍 My Contributions 🐍
+## My Contributions
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
 

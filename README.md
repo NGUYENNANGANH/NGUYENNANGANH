@@ -28,6 +28,10 @@
 | ------------- | ------------- |
 
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NGUYENNANGANH&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Nguyễn Năng Anh's top languages" />
 </div>

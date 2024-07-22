@@ -23,6 +23,8 @@ Hello! My name is Nguyễn Năng Anh. I am a student at Thủy Lợi University,
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NGUYENNANGANH&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NGUYENNANGANH's github stats" /></a>
 
+![](https://github-readme-stats.vercel.app/api?username=NGUYENNANGANH&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)
+
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=NGUYENNANGANH&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 

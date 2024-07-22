@@ -44,7 +44,7 @@
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Scientific-research-2024&theme=radical" />
   </a>
   <a href="https://github.com/NGUYENNANGANH/Study_OOP">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Study_OOP&theme=gruvbox" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Study_OOP&theme=radical" />
   </a>
 </div>
 

@@ -21,7 +21,7 @@ Hello! My name is Nguyễn Năng Anh. I am a student at Thủy Lợi University,
 | <a href="https://github.com/NGUYENNANGANH/Scientific-research-2024"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NGUYENNANGANH&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/NGUYENNANGANH/Scientific-research-2024"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NGUYENNANGANH&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | :-------------: | :-------------: |
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NGUYENNANGANH&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NGUYENNANGANH's github stats" /></a>
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=NGUYENNANGANH&theme=matrix&no-frame=false&no-bg=false&margin-w=4)

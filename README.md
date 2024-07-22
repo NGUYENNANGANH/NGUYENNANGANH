@@ -26,7 +26,10 @@
 
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=NGUYENNANGANH&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=NGUYENNANGANH&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Nguyễn Năng Anh's GitHub Trophies" />
+</div>
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)

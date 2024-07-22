@@ -32,7 +32,10 @@
 
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Quotes" />
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NGUYENNANGANH&icon=0&color=0)](https://visitcount.itsvg.in)

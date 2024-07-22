@@ -20,14 +20,13 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/NGUYENNANGANH/Scientific-research-2024">
+
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=NGUYENNANGANH&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Nguyễn Năng Anh's github stats" />
-      </a>
+      
     </td>
     <td>
-      <a href="https://github.com/NGUYENNANGANH/Study_OOP">
+
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NGUYENNANGANH&theme=radical&hide_border=false" alt="Nguyễn Năng Anh's github streak stats" />
-      </a>
     </td>
   </tr>
   <tr>

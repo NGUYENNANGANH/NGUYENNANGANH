@@ -17,7 +17,7 @@
 ![](https://github-trophies.vercel.app/?username=NGUYENNANGANH&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NGUYENNANGANH&icon=0&color=0)](https://visitcount.itsvg.in)

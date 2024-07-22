@@ -57,5 +57,24 @@
 </div>
 
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/NGUYENNANGANH/Scientific-research-2024">
+          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Scientific-research-2024&theme=radical" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/NGUYENNANGANH/Study_OOP">
+          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Study_OOP&theme=radical" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=NGUYENNANGANH&icon=0&color=0)](https://visitcount.itsvg.in)

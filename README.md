@@ -37,8 +37,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Quotes" />
 </div>
 
-# Welcome to My GitHub Profile!
-
 ## 🚀 Projects
 <div align="center">
   <a href="https://github.com/NGUYENNANGANH/Scientific-research-2024">
@@ -48,11 +46,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Study_OOP&theme=radical" />
   </a>
 </div>
-
-
-
-
-
 
 
 ---

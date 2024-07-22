@@ -41,13 +41,13 @@
 ## 🚀 Projects
 
 <a href="https://github.com/NGUYENNANGANH/Scientific-research-2024">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Scientific-research-2024&theme=radical" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Scientific-research-2024&theme=radical" />
 </a>
+
 
 <a href="https://github.com/NGUYENNANGANH/Study_OOP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Study_OOP&theme=radical" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Study_OOP&theme=radical" />
 </a>
-
 
 
 

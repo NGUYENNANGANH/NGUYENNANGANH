@@ -38,15 +38,6 @@
 </div>
 
 ## 🚀 Projects
-<div align="center">
-  <a href="https://github.com/NGUYENNANGANH/Scientific-research-2024/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Scientific-research-2024&theme=radical" />
-  </a>
-  <a href="https://github.com/NGUYENNANGANH/Study_OOP/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Study_OOP&theme=radical" />
-  </a>
-</div>
-
 
 <div align="center">
   <a href="https://github.com/NGUYENNANGANH/Scientific-research-2024">
@@ -56,7 +47,6 @@
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Study_OOP&theme=radical" />
   </a>
 </div>
-
 
 <a href="https://github.com/uvipen/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->

@@ -2,6 +2,13 @@
 <h1 align="center">Hi 👋, I'm NGUYỄN NĂNG ANH</h1>
 
 # 💫 About Me:
+👋 Hi there! I'm Nguyễn Năng Anh, born in 2003 and currently studying at Thủy Lợi University. 
+
+🎓 I'm pursuing a degree in Information Technology with a strong passion for Artificial Intelligence (AI). My goal is to become a skilled AI engineer.
+
+🚀 I'm excited to explore the field of AI and contribute to innovative projects that make a difference. 
+
+📫 Feel free to reach out to me!
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100035191161128&mibextid=ZbWKwL) 

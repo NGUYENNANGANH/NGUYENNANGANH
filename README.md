@@ -53,7 +53,8 @@
     <tr>
       <td>
         <a href="https://github.com/NGUYENNANGANH/Scientific-research-2024">
-          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Scientific-research-2024&theme=radical" />
+          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NGUYENNANGANH&repo=NCKH
+&theme=radical" />
         </a>
       </td>
       <td>

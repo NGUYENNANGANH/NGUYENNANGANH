@@ -57,7 +57,7 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/NGUYENNANGANH/Study_OOP](https://github.com/NGUYENNANGANH/Sales-Prediction-Model.git">
+        <a href="https://github.com/NGUYENNANGANH/Sales-Prediction-Model.git">
           <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NGUYENNANGANH&repo=Sales-Prediction-Model&theme=radical" />
         </a>
       </td>
